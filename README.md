@@ -5,4 +5,4 @@ This repository contains work completed during Spring 2020 in Dr. Murray's DIG46
 The *ice* folder contains in-class exercises. 
 
 ## About Me
-This should be replaced.
+Kayla Lebron https://www.linkedin.com/in/kayla-lebron-172990191/
