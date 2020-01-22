@@ -14,3 +14,7 @@ Highly motivated digital media student seeking an internship and part-time/full-
 =======
 Kayla Lebron https://www.linkedin.com/in/kayla-lebron-172990191/ 
 >>>>>>> 305a4a8d0af8b2566a446c9bc22db6b8c48502a7
+
+## Conflicts
+
+This section represents code n the server that isn't on the local repository.
