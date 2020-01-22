@@ -13,6 +13,6 @@ This should be replaced.
 3. Item 3
 
 ## Conflicts
-
-This section represents code n the server that isn't on the local repository.
+This section 
+represents code n the server that isn't on the local repository.
 
