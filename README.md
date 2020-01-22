@@ -7,7 +7,7 @@ The *ice* folder contains in-class exercises.
 ## About Me
 
 ## Merging
-1. Item 1
+1. Item 1 [Google](https://www.google.com/)
 2. Item 2
 3. Item 3
 
