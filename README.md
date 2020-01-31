@@ -7,6 +7,13 @@ The *ice* folder contains in-class exercises.
 ## About Me
 Kayla Lebron
 
-Highly motivated digital media student seeking an internship and part-time/full-time job opportunities in front-end development or social media marketing. Interested in leveraging web design and social media experience to positively contribute to an organization’s innovative and creative objectives, while gaining valuable industry experience. 
+## Merging
+1. Item 1 [Google](https://www.google.com/)
+2. Item 2
+3. Item 3
+
+## Conflicts
+This section 
+represents code n the server that isn't on the local repository.
 
 [LinkedIn](https://www.linkedin.com/in/kayla-lebron-172990191/)
