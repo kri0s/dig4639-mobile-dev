@@ -1,0 +1,107 @@
+[
+    {
+      "question": "What can be broken but is never held?",
+      "answers" :
+      [
+        {"text": "A heart",
+        "correct": false
+        },
+        {
+          "text": "A promise",
+          "correct": true
+        },
+        {
+          "text": "My will to live",
+          "correct": false
+        },
+        {
+          "text": "Glass",
+          "correct": false
+        } 
+      ]
+    },
+    {
+      "question": "It goes all over the world, but stays in a corner. What is that?",
+      "answers": [
+        {
+          "text": "Baby",
+          "correct": false
+        },
+        {
+          "text": "Carry-on luggage",
+          "correct": false
+        },
+        {
+          "text": "Your friend who keeps buying the corner seat on flights",
+          "correct": false
+        },
+        {
+          "text": "A stamp",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "What has a head, a tail, but does not have a body?",
+      "answers": [
+        {
+          "text": "My sleep paralysis demon",
+          "correct": true
+        },
+        {
+          "text": "A coin",
+          "correct": true
+        },
+        {
+          "text": "Mike Wazowski",
+          "correct": false
+        },
+        {
+          "text": "Tadpole",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Three men are on a boat. The boat sinks but only two people get their hair wet. Why?",
+      "answers": [
+        {
+          "text": "I don't know, man. This is a tough one.",
+          "correct": false
+        },
+        {
+          "text": "The second man was Jesus so he just stood on the water",
+          "correct": true
+        },
+        {
+          "text": "The first man was the only one who brought floaties",
+          "correct": true
+        },
+        {
+          "text": "The third man was bald",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "What does everyone need, want, and ask for but never take?",
+      "answers": [
+        {
+          "text": "2 weeks vacation days",
+          "correct": false
+        },
+        {
+          "text": "Advice",
+          "correct": true
+        },
+        {
+          "text": "Their meds",
+          "correct": false
+        },
+        {
+          "text": "Me... seriously",
+          "correct": false
+        }
+      ]
+    }
+  ]
